@@ -91,6 +91,7 @@ Choose Data source
 <img width="943" height="345" alt="image" src="https://github.com/user-attachments/assets/28653f41-57c3-4baf-abe6-b6c95fef39ea" />
 <img width="955" height="479" alt="image" src="https://github.com/user-attachments/assets/28528bea-9f6e-4209-a201-354889071883" />
 ### Step 3.4 - Sync Knowledge Base
+
 ```
 Start ingestion.
 Bedrock will:
@@ -102,8 +103,8 @@ Bedrock will:
 * Build searchable knowledge
 
 Wait until the status becomes: Available
-
 ```
+
 <img width="937" height="474" alt="image" src="https://github.com/user-attachments/assets/4076df24-b13c-43c3-ad9a-f1a6241c55dd" />
 
 ## Step 4 - Create Agent and Choose Knowledge base
