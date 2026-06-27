@@ -57,7 +57,7 @@ Examples include:
 
 Supported formats include: PDF, DOCX, TXT, CSV, HTML
 
-## Step 2 - Upload Documents to Amazon S3
+### Step 2 - Upload Documents to Amazon S3
 
 Create a S3 bucket. 
 ```
